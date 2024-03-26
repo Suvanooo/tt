@@ -12,7 +12,7 @@ const febHolidays = [
     "filhall DM karke tum bta skti ho agar marzi ho apki tou ",
     "♥️BADTE BADTE DARD DAWA BAN JATI HAI♥",
    "TUME KAISE PTA ",
-  'bAKI BAAR HAQ mat kahna ",
+  "bAKI BAAR baar  HAQ mat kahna ",
     "BY THE WAY....",
     "TUM AAISE ACT kyu karti ho jaise tume kuch pta nhi ",
     "Aur sab bhool gyi hoo ",
@@ -26,10 +26,9 @@ const febHolidays = [
     "tum tou tum hooo ",
     "with",
     "EMOTIONS",
-    "AUR EMOTIONS HAI PIE KI VALUE JITNE AND THE VALUE OF PIE IS=3.1415926535 8979323846 2643383279 5028841971 6939937510
-5820974944 5923078164 0628620899 8628034825 342117067",
+    "AUR EMOTIONS HAI PIE KI VALUE JITNE AND THE VALUE OF PIE IS=infinity",
     "AGAGR EMOTIONS hii nhi tou ai nhi hoo tum ",
-    "aur ,",
+    "aur ",
     "human and you can understad shyari and gazzals..."
     "btw" ,
       "MUDATE" ,

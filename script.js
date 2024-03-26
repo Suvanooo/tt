@@ -12,7 +12,7 @@ const febHolidays = [
     "filhall DM karke tum bta skti ho agar marzi ho apki tou ",
     "♥️BADTE BADTE DARD DAWA BAN JATI HAI♥",
    "TUME KAISE PTA ",
-  I'lABKI BAAR HAQ mat kahna ",
+  'bAKI BAAR HAQ mat kahna ",
     "BY THE WAY....",
     "TUM AAISE ACT kyu karti ho jaise tume kuch pta nhi ",
     "Aur sab bhool gyi hoo ",
@@ -46,9 +46,9 @@ const febHolidays = [
 "can you explain" ,
   "good night 🌃",
   "because 3pm ke baad tum dekhogi issko",
-             "okkk😴",
-          cons ];
-  const ulEl = document.querySelector("ul");
+             "okkk😴"
+               ];
+                const ulEl = document.querySelector("ul");
   const d = new Date();
   let daynumber = d.getMonth() == 1 ? d.getDate() - 1 : 0;
   let activeIndex = daynumber;
